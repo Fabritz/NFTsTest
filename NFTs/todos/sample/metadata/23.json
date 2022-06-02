@@ -1,0 +1,38 @@
+{
+  "name": "#23",
+  "description": "Unos monitos bien cool",
+  "external_url": "",
+  "image": "ipfs://Qmbud6ZMCDCt6fywWpBPHVfwrpeCBUssfWTUCv1C6qXCr4/23.webp",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "rosa"
+    },
+    {
+      "trait_type": "ropa",
+      "value": "rojo"
+    },
+    {
+      "trait_type": "cara",
+      "value": "marron"
+    },
+    {
+      "trait_type": "ojos",
+      "value": "guino"
+    },
+    {
+      "trait_type": "boca",
+      "value": "abierta"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "23.webp",
+        "type": "image/webp"
+      }
+    ],
+    "creators": []
+  },
+  "compiler": "https://nft-generator.art"
+}
